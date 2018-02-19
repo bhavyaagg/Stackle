@@ -1,5 +1,6 @@
 engines:
  quotes:
+  - error
   - single
 exclude_paths:
   - .bundle/**
